@@ -26,3 +26,6 @@ git push -u origin main
 git remote add origin https://github.com/WaqasAyubShah/BoilerPlate.git
 git branch -M main
 git push -u origin main
+
+
+How to make a 2nd commit?
